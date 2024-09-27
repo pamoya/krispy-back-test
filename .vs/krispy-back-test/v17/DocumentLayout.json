@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Brive\\Documents\\Projects\\krispy-back-test-0\\krispy-back-test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B391A87-26C1-4055-B63D-798F89B9684C}|krispy-back-test.csproj|c:\\users\\brive\\documents\\projects\\krispy-back-test-0\\krispy-back-test\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B391A87-26C1-4055-B63D-798F89B9684C}|krispy-back-test.csproj|solutionrelative:controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B391A87-26C1-4055-B63D-798F89B9684C}|krispy-back-test.csproj|c:\\users\\brive\\documents\\projects\\krispy-back-test-0\\krispy-back-test\\controllers\\loggincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B391A87-26C1-4055-B63D-798F89B9684C}|krispy-back-test.csproj|solutionrelative:controllers\\loggincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B391A87-26C1-4055-B63D-798F89B9684C}|krispy-back-test.csproj|c:\\users\\brive\\documents\\projects\\krispy-back-test-0\\krispy-back-test\\data\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B391A87-26C1-4055-B63D-798F89B9684C}|krispy-back-test.csproj|solutionrelative:data\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B391A87-26C1-4055-B63D-798F89B9684C}|krispy-back-test.csproj|c:\\users\\brive\\documents\\projects\\krispy-back-test-0\\krispy-back-test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B391A87-26C1-4055-B63D-798F89B9684C}|krispy-back-test.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B391A87-26C1-4055-B63D-798F89B9684C}|krispy-back-test.csproj|c:\\users\\brive\\documents\\projects\\krispy-back-test-0\\krispy-back-test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B391A87-26C1-4055-B63D-798F89B9684C}|krispy-back-test.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B391A87-26C1-4055-B63D-798F89B9684C}|krispy-back-test.csproj|c:\\users\\brive\\documents\\projects\\krispy-back-test-0\\krispy-back-test\\data\\donas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B391A87-26C1-4055-B63D-798F89B9684C}|krispy-back-test.csproj|solutionrelative:data\\donas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B391A87-26C1-4055-B63D-798F89B9684C}|krispy-back-test.csproj|c:\\users\\brive\\documents\\projects\\krispy-back-test-0\\krispy-back-test\\data\\panaderiacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B391A87-26C1-4055-B63D-798F89B9684C}|krispy-back-test.csproj|solutionrelative:data\\panaderiacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B391A87-26C1-4055-B63D-798F89B9684C}|krispy-back-test.csproj|c:\\users\\brive\\documents\\projects\\krispy-back-test-0\\krispy-back-test\\data\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B391A87-26C1-4055-B63D-798F89B9684C}|krispy-back-test.csproj|solutionrelative:data\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B391A87-26C1-4055-B63D-798F89B9684C}|krispy-back-test.csproj|c:\\users\\brive\\documents\\projects\\krispy-back-test-0\\krispy-back-test\\data\\ventadetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B391A87-26C1-4055-B63D-798F89B9684C}|krispy-back-test.csproj|solutionrelative:data\\ventadetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B391A87-26C1-4055-B63D-798F89B9684C}|krispy-back-test.csproj|c:\\users\\brive\\documents\\projects\\krispy-back-test-0\\krispy-back-test\\controllers\\donascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B391A87-26C1-4055-B63D-798F89B9684C}|krispy-back-test.csproj|solutionrelative:controllers\\donascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B391A87-26C1-4055-B63D-798F89B9684C}|krispy-back-test.csproj|c:\\users\\brive\\documents\\projects\\krispy-back-test-0\\krispy-back-test\\krispy-back-test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B391A87-26C1-4055-B63D-798F89B9684C}|krispy-back-test.csproj|solutionrelative:krispy-back-test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Brive\\Documents\\Projects\\krispy-back-test-0\\krispy-back-test\\Data\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Data\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Brive\\Documents\\Projects\\krispy-back-test-0\\krispy-back-test\\Data\\Usuarios.cs",
+              "RelativeToolTip": "Data\\Usuarios.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwC0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:21:16.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PanaderiaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Brive\\Documents\\Projects\\krispy-back-test-0\\krispy-back-test\\Data\\PanaderiaContext.cs",
+              "RelativeDocumentMoniker": "Data\\PanaderiaContext.cs",
+              "ToolTip": "C:\\Users\\Brive\\Documents\\Projects\\krispy-back-test-0\\krispy-back-test\\Data\\PanaderiaContext.cs",
+              "RelativeToolTip": "Data\\PanaderiaContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:24:47.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Donas.cs",
+              "DocumentMoniker": "C:\\Users\\Brive\\Documents\\Projects\\krispy-back-test-0\\krispy-back-test\\Data\\Donas.cs",
+              "RelativeDocumentMoniker": "Data\\Donas.cs",
+              "ToolTip": "C:\\Users\\Brive\\Documents\\Projects\\krispy-back-test-0\\krispy-back-test\\Data\\Donas.cs",
+              "RelativeToolTip": "Data\\Donas.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T23:47:23.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Brive\\Documents\\Projects\\krispy-back-test-0\\krispy-back-test\\Data\\Venta.cs",
+              "RelativeDocumentMoniker": "Data\\Venta.cs",
+              "ToolTip": "C:\\Users\\Brive\\Documents\\Projects\\krispy-back-test-0\\krispy-back-test\\Data\\Venta.cs",
+              "RelativeToolTip": "Data\\Venta.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvyQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T23:52:42.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VentaDetalle.cs",
+              "DocumentMoniker": "C:\\Users\\Brive\\Documents\\Projects\\krispy-back-test-0\\krispy-back-test\\Data\\VentaDetalle.cs",
+              "RelativeDocumentMoniker": "Data\\VentaDetalle.cs",
+              "ToolTip": "C:\\Users\\Brive\\Documents\\Projects\\krispy-back-test-0\\krispy-back-test\\Data\\VentaDetalle.cs",
+              "RelativeToolTip": "Data\\VentaDetalle.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T23:52:49.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Brive\\Documents\\Projects\\krispy-back-test-0\\krispy-back-test\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Brive\\Documents\\Projects\\krispy-back-test-0\\krispy-back-test\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-21T01:32:10.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\Brive\\Documents\\Projects\\krispy-back-test-0\\krispy-back-test\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\Brive\\Documents\\Projects\\krispy-back-test-0\\krispy-back-test\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "Controllers\\VentasController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAewIIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:31:06.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DonasController.cs",
+              "DocumentMoniker": "C:\\Users\\Brive\\Documents\\Projects\\krispy-back-test-0\\krispy-back-test\\Controllers\\DonasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DonasController.cs",
+              "ToolTip": "C:\\Users\\Brive\\Documents\\Projects\\krispy-back-test-0\\krispy-back-test\\Controllers\\DonasController.cs",
+              "RelativeToolTip": "Controllers\\DonasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T00:26:40.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "krispy-back-test.csproj",
+              "DocumentMoniker": "C:\\Users\\Brive\\Documents\\Projects\\krispy-back-test-0\\krispy-back-test\\krispy-back-test.csproj",
+              "RelativeDocumentMoniker": "krispy-back-test.csproj",
+              "ToolTip": "C:\\Users\\Brive\\Documents\\Projects\\krispy-back-test-0\\krispy-back-test\\krispy-back-test.csproj",
+              "RelativeToolTip": "krispy-back-test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-17T15:21:03.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Brive\\Documents\\Projects\\krispy-back-test-0\\krispy-back-test\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Brive\\Documents\\Projects\\krispy-back-test-0\\krispy-back-test\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:35:48.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogginController.cs",
+              "DocumentMoniker": "C:\\Users\\Brive\\Documents\\Projects\\krispy-back-test-0\\krispy-back-test\\Controllers\\LogginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LogginController.cs",
+              "ToolTip": "C:\\Users\\Brive\\Documents\\Projects\\krispy-back-test-0\\krispy-back-test\\Controllers\\LogginController.cs",
+              "RelativeToolTip": "Controllers\\LogginController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAMwBsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T22:01:32.368Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
